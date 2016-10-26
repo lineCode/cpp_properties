@@ -1,2 +1,2 @@
 # cpp_properties
-c++ equivalent for java "Properties" class
+C++11 equivalent for java "Properties" class
